@@ -140,7 +140,7 @@ class MyApp extends StatelessWidget {
                   ),
                 ),
                 SizedBox(
-                  height: 80,
+                  height: 90,
                 ),
                 Container(
                   decoration: BoxDecoration(

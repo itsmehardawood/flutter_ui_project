@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
                     child: Text(
                   'Login In',
                   style: TextStyle(
-                      fontSize: 26,
+                      fontSize: 28,
                       fontFamily: 'Rubik Medium',
                       fontWeight: FontWeight.bold),
                 )),
@@ -74,7 +74,7 @@ class MyApp extends StatelessWidget {
                   child: Text(
                     textAlign: TextAlign.center,
                     'Enter the Login information Correctly Remember information for later',
-                    style: TextStyle(fontFamily: 'Rubik Regular', fontSize: 18),
+                    style: TextStyle(fontFamily: 'Rubik Regular', fontSize: 19),
                   ),
                 ),
                 SizedBox(
